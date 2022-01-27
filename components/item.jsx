@@ -55,7 +55,7 @@ const Item = ({ item }) => {
       <div className={classes.container}>
         <Typography variant="body1" className={classes.chip}>
           <AddCircleIcon className={classes.greenIcon} />
-          {`${item.text}  ${item.amount}`}
+          {`${item.text}  $${item.amount}`}
         </Typography>
         <Tooltip title="Delete item" placement="right-start">
           <DeleteIcon

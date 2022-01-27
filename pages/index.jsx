@@ -1,6 +1,7 @@
 import Calculator from "../components/calculator";
 import { Container, createStyles } from "@mui/material";
 import { makeStyles } from "@mui/styles";
+import { Head } from "next/head";
 
 const useStyles = makeStyles(() =>
   createStyles({
