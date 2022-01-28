@@ -21,3 +21,7 @@ once you load whether an income or expense, your submited item will appear liste
 - Redux Thunk
 - Next Redux Wrapper
 - Redux Persist
+
+
+### Depoyed Version
+https://budget-app-redi.herokuapp.com/
